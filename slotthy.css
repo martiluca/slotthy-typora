@@ -20,28 +20,28 @@
 
 @font-face {
     font-family: "noto-regular";
-    src: url('personal/NotoSans-Regular.ttf');
+    src: url('slotthy/NotoSans-Regular.ttf');
 }
 
 @font-face {
     font-family: "noto-italic";
-    src: url('personal/NotoSans-Italic.ttf');
+    src: url('slotthy/NotoSans-Italic.ttf');
     src: url();
 }
 
 @font-face {
     font-family: "noto-mono";
-    src: url('personal/NotoSansMono-Regular.ttf');
+    src: url('slotthy/NotoSansMono-Regular.ttf');
 }
 
 @font-face {
     font-family: "noto-math";
-    src: url('personal/NotoSansMath-Regular.ttf');
+    src: url('slotthy/NotoSansMath-Regular.ttf');
 }
 
 @font-face {
     font-family: "noto-bold";
-    src: url('personal/NotoSans-Bold.ttf');
+    src: url('slotthy/NotoSans-Bold.ttf');
 }
 /* BASICS */
 
